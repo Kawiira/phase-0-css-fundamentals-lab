@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  position: relative;
+   left: 30%;
+}
+
+img{
+  position: relative;
+  left: 20%;
+  length: 450px;
+  width: 450px;
+
+}
+a{
+  position: relative;
+  left: 30%;
+  background-color: gray;
+  font-size: xx-small;
+}
+p{
+  width: 400px;
+  position: relative;
+  left: 25%;
+  font-size: xx-small;
+}
+figcaption{
+  font-size: x-small;
+  position: relative;
+  left: 30%;
+}
+div{
+  position: relative;
+  font-size: x-small;
+  float: left;
+  background-color: red;
+  width: 25%;
+  
+}
